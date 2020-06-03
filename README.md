@@ -1,4 +1,4 @@
-# demo
+# ToDo List App
 
 ## Project setup
 ```
